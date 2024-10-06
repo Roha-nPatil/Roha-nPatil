@@ -14,5 +14,5 @@ I'm a passionate software developer with a strong foundation in **SQL, Core Java
 - ⚡ Fun fact: You find it 😉
 
 Connect with me:
- - Instagram | [rohan_patil011](https://www.linkedin.com/in/rohanpatil11/)
+  - Instagram | [rohan_patil011](https://www.linkedin.com/in/rohanpatil11/)
 
