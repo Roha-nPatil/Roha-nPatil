@@ -3,7 +3,7 @@
 <h3 align="center"> A passionate Software developer from India </h3>
 <!-- I'm a passionate software developer with a strong foundation in **SQL, Core Java, J2EE, Hibernate, Spring Boot, HTML5, CSS3, JavaScript, React.js,** and **Python**. With hands-on experience in building full-stack applications and managing databases, I am constantly learning and improving my skills in **Data Structures and Algorithms (DSA)** to tackle complex problems more effectively. -->
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning
   - **Data Structures and Algorithms (DSA)** to optimize my problem-solving skills.
   - Advanced concepts in **Spring Boot** and **Hibernate** for enterprise-level development.
 - 💬 Ask me about SQL, Core Java, J2EE, Hibernate, SpringBoot, HTML5, CSS3, JavaScript, React.js, Python
