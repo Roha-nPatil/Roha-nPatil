@@ -1,4 +1,4 @@
-## Hi 👋, I'm ROHAN PATIL
+<h1 align="center"><b> Hi 👋, I'm ROHAN PATIL </b></h1>
 
 <h3 align="center"> A passionate Software developer from India </h3>
 <!-- I'm a passionate software developer with a strong foundation in **SQL, Core Java, J2EE, Hibernate, Spring Boot, HTML5, CSS3, JavaScript, React.js,** and **Python**. With hands-on experience in building full-stack applications and managing databases, I am constantly learning and improving my skills in **Data Structures and Algorithms (DSA)** to tackle complex problems more effectively. -->
